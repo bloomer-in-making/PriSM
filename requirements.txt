@@ -1,0 +1,9 @@
+torch>=2.1
+transformers>=4.40
+accelerate>=0.26
+sentencepiece
+scikit-learn
+rouge-score
+rank_bm25
+numpy
+tqdm
